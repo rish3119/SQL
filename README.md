@@ -11,7 +11,7 @@ It is designed to help beginners and intermediate learners strengthen their SQL 
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sql-practice.git
+   git clone https://github.com/rish3119/sql-practice.git
 
 
 Navigate into the repo:
