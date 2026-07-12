@@ -1,0 +1,17 @@
+
+/*
+    Enter your query here and follow these instructions:
+    1. Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
+    2. The AS keyword causes errors, so follow this convention: "Select t.Field From table1 t" instead of "select t.Field From table1 AS t"
+    3. Type your code immediately after comment. Don't leave any blank line.
+    
+    Query all columns for all American cities in the CITY table with populations larger than 100000. The CountryCode for America is USA.
+
+    The CITY table is described as follows: 
+    
+*/
+
+SELECT *
+FROM CITY
+WHERE COUNTRYCODE = 'USA'
+  AND POPULATION > 100000;
